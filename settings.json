@@ -41,7 +41,7 @@
     "max-reconnect-delay": 120000,
     "username-rotation": {
       "enabled": true,
-      "after-failed-reconnects": 25,
+      "after-failed-reconnects": 10,
       "random-length": 12,
       "characters": "abcdefghijklmnopqrstuvwxyz1234567890"
     }
